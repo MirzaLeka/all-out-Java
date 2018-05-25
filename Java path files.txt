@@ -1,0 +1,5 @@
+Default path for Project files on Windows:
+C:\Users\yourname\workspace\ => all project folders will be in here
+For Linux:
+/home/yourname/workspace/
+
